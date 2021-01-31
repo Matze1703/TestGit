@@ -1,2 +1,2 @@
 TextFile2
-Hier habe ich etwas geloescht
+Dies ist eine Testdatei
